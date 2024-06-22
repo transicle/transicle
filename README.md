@@ -13,4 +13,4 @@
 | 🔷 TypeScript     | Beginner          | 1                  |
 
 ### *Real* Projects
-* **[Starry](https://github.com/mr-suno/starry)**: ✨ A powerful and semi-open sourced script hub for Roblox. **(Lua/u)**
+* **[Starry](https://github.com/mr-suno/starry)**: ✨ A powerful game hub for Roblox desinged to overcome games. **(Lua/u)**
