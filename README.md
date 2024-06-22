@@ -3,6 +3,7 @@
 ### Interests & Hobbies
 * **Roblox Programming**: 🕹️ Scripter designing dumb games and cheats for Roblox
 * **UI Design**: 📷 Creative designer using Roblox Studio & Adobe Photoshop
+* **Backend Development**: 🌐 NodeJS backend developer, creating APIs for different use cases
 
 ### Skills
 | Language          | Proficiency Level | Years Experience   |
