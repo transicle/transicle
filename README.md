@@ -8,7 +8,7 @@
 ### Skills
 | Language          | Proficiency Level | Years Experience   |
 |-------------------|-------------------|--------------------|
-| 🐍 Python         | Intermediate      | 2                  |
+| 🐍 Python         | Beginner          | 2                  |
 | 🌐 JavaScript     | Beginner          | 1                  |
 | 🛠️ Lua/u          | Advanced          | 5                  |
 | 🔷 TypeScript     | Beginner          | 1                  |
