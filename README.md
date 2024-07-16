@@ -17,4 +17,4 @@
 * **[Starry](https://github.com/mr-suno/starry)**: ✨ A powerful game hub for Roblox desinged to overcome games. **(Lua/u)**
 
 ### *Learner's* Projects
-* **[Prism](https://github.com/mr-suno/prism)**: ♦️ Infinite Yield Remake to challenge myself in Lua. **(Lua/u)**
+* **[Prism](https://github.com/mr-suno/prism-admin)**: ♦️ Infinite Yield Remake to challenge myself in Lua. **(Lua/u)**
