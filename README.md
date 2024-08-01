@@ -16,5 +16,6 @@
 ### *Real* Projects
 * **[Starry](https://github.com/mr-suno/starry)**: ✨ A powerful game hub for Roblox desinged to overcome games. **(Lua/u)**
 
-### *Learner's* Projects
+### Other.. Stuff
 * **[Prism](https://github.com/mr-suno/prism-admin)**: ♦️ Infinite Yield Remake to challenge myself in Lua. **(Lua/u)**
+* **[Sunolang](https://github.com/mr-suno/Sunolang)**: 🐍 A basic Python based programming language. **(Python)**
