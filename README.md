@@ -13,9 +13,5 @@
 | 🛠️ Lua/u          | Advanced          | 5                  |
 | 🔷 TypeScript     | Beginner          | 1                  |
 
-### *Real* Projects
+### Projects
 * **[Starry](https://github.com/mr-suno/starry)**: ✨ A powerful game hub for Roblox desinged to overcome games. **(Lua/u)**
-
-### Other.. Stuff
-* **[Prism](https://github.com/mr-suno/prism-admin)**: ♦️ Infinite Yield Remake to challenge myself in Lua. **(Lua/u)**
-* **[Sunolang](https://github.com/mr-suno/Sunolang)**: 🐍 A basic Python based programming language. **(Python)**
