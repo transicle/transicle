@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### Interests & Hobbies
-* **Roblox Programming**: 🕹️ Scripter designing dumb games and cheats for Roblox
-* **UI Design**: 📷 Creative designer using Roblox Studio & Adobe Photoshop
-* **Backend Development**: 🌐 NodeJS backend developer, creating APIs for different use cases
+* **Programming**: Mainly Lua/u programmer that also works in a variety of languages.
+* **UI Designing**: Untalented UI designer just trying to make stuff look nice.
+* **Backend Work**: I fall in favor of backends, designing stuff on the frontend is really boring.
 
 ### Skills
 | Language          | Proficiency Level | Years Experience   |
@@ -12,6 +12,10 @@
 | 🌐 JavaScript     | Beginner          | 1                  |
 | 🛠️ Lua/u          | Advanced          | 5                  |
 | 🔷 TypeScript     | Beginner          | 1                  |
+| 🍵 Java           | Beginner          | 0                  |
+
+### Currently Learning 📖
+I'm currently learning Java for school, and probably just for Minecraft mods in the future.
 
 ### Projects
 * **[Starry](https://github.com/mr-suno/starry)**: ✨ A powerful game hub for Roblox desinged to overcome games. **(Lua/u)**
