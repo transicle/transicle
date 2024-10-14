@@ -5,13 +5,14 @@
 * **Backend Work**: I fall in favor of backends, designing stuff on the frontend is really boring
 
 ### Skills
-| Language          | Proficiency Level | Years Experience   |
-|-------------------|-------------------|--------------------|
-| 🛠️ Lua/u          | Advanced          | 5                  |
-| 🐍 Python         | Beginner          | 2                  |
-| 🌐 JavaScript     | Beginner          | 1                  |
-| 🔷 TypeScript     | Beginner          | 1                  |
-| 🍵 Java           | Beginner          | 0                  |
+| Language          | Level / Skill |
+|-------------------|-------------------|
+| Luau | ████████░░  **(80)** |
+| NodeJS & TypeScript | █████░░░░░  **(50)** |
+| HTML & CSS | ███░░░░░░░  **(30)** |
+| Python | ██░░░░░░░░  **(20)** |
+| Java | █░░░░░░░░░  **(10)** |
+--- 
 
 ### Currently Learning 📖
 I'm currently learning Java for school, and probably just for Minecraft mods in the future.
