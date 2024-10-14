@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 ### Interests & Hobbies
-* **Programming**: Mainly Lua/u programmer that also works in a variety of languages.
-* **UI Designing**: Untalented UI designer just trying to make stuff look nice.
-* **Backend Work**: I fall in favor of backends, designing stuff on the frontend is really boring.
+* **Programming**: Dynamic programmer, mainly using languages like Lua, TypeScript and Python
+* **Backend Work**: I fall in favor of backends, designing stuff on the frontend is really boring
 
 ### Skills
 | Language          | Proficiency Level | Years Experience   |
