@@ -20,3 +20,4 @@ I'm currently learning Java for school, and probably just for Minecraft mods in 
 ### Projects
 * **[Starry](https://github.com/mr-suno/Starry)**: ✨ A powerful game hub for Roblox desinged to overcome games. - **Luau**
 * **[Sonar](https://github.com/mr-suno/Sonar)**: ⚡ Lightweight bot controller, allowing others to use commands on you. - **TS**
+* **[LoveBridge](https://github.com/mr-suno/LoveBridge)**: ❤️ Advanced tool to control yourself via Discord - **Python, TS, JS**
