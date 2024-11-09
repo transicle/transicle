@@ -22,3 +22,6 @@ I'm Suno, a young programmer that just enjoys making a ton of side projects in v
 
 ### Currently Learning 📖
 Learning Java for research for dynamic and secure APIs 🍵
+
+### Projects ✨
+No open-sourced projects, I'm working on **closed-sourced** projects for now!
