@@ -16,7 +16,7 @@ I'm Suno, a young programmer that just enjoys making a ton of side projects in v
 | **(80%)** Luau | ████████░░ |
 | **(60%)** NodeJS & TypeScript | ██████░░░░ |
 | **(30%)** HTML & CSS | ███░░░░░░░ |
-| **(20%)** Python | ██░░░░░░░░ |
+| **(30%)** Python | ███░░░░░░░ |
 | **(20%)** Java | ██░░░░░░░░ |
 --- 
 
