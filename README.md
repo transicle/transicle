@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### Interests & Hobbies
-* **Programming**: Dynamic programmer, mainly using languages like Lua, TypeScript and Python
-* **Backend Work**: I fall in favor of backends, designing stuff on the frontend is really boring
+* **Programming**:  I love to code in various languages, mostly listed below. 🖥️
+* **Backends**: I really love designing APIs and creating lightweight and fast servers. 🌐
 
 ### Skills
 | Language          | Level / Skill |
@@ -11,12 +11,8 @@
 | NodeJS & TypeScript | ██████░░░░  **(60)** |
 | HTML & CSS | ███░░░░░░░  **(30)** |
 | Python | ██░░░░░░░░  **(20)** |
-| Java | █░░░░░░░░░  **(10)** |
+| Java | ██░░░░░░░░  **(20)** |
 --- 
 
 ### Currently Learning 📖
-I'm currently learning Java for school, and probably just for Minecraft mods in the future.
-
-### Projects
-* **[Starry](https://github.com/mr-suno/Starry)**: ✨ A powerful game hub for Roblox desinged to overcome games. - **Luau**
-* **[LoveBridge](https://github.com/mr-suno/LoveBridge)**: ❤️ Advanced tool to control yourself via Discord - **Python, TS, JS**
+Learning Java for research for dynamic and secure APIs 🍵
