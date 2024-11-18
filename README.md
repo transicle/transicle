@@ -9,19 +9,21 @@ I'm Suno, a young programmer that just enjoys making a ton of side projects in v
 ### Interests & Hobbies
 * **Programming**:  I love to code in various languages, mostly listed below. 🖥️
 * **Backends**: I really love designing APIs and creating lightweight and fast servers. 🌐
+* **iOS Software**: I personally enjoy creating iOS apps, and you may be seeing a few sample apps appear on my account. 📱
 
 ### Skills
 | Language          | Level / Skill |
 |-------------------|-------------------|
-| **(80%)** Luau | ████████░░ |
-| **(60%)** NodeJS & TypeScript | ██████░░░░ |
-| **(30%)** HTML & CSS | ███░░░░░░░ |
-| **(30%)** Python | ███░░░░░░░ |
+| **(90%)** Luau | █████████░ |
+| **(70%)** NodeJS & TypeScript | ███████░░░ |
+| **(60%)** HTML & CSS | ██████░░░░ |
+| **(50%)** Python | █████░░░░░ |
 | **(20%)** Java | ██░░░░░░░░ |
+| **(05%)** Swift | █░░░░░░░░░ |
 --- 
 
 ### Currently Learning 📖
 Learning Java for research for dynamic and secure APIs 🍵
 
 ### Projects ✨
-No open-sourced projects, I'm working on **closed-sourced** projects for now!
+1. [Memo](https://github.com/mr-suno/Memo) : A basic, simple iOS note-taking application designed with a user-friendly interface. **(Swift)**
