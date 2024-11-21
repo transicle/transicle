@@ -12,6 +12,8 @@ I'm Suno, a young programmer that just enjoys making a ton of side projects in v
 * **iOS Software**: I personally enjoy creating iOS apps, and you may be seeing a few sample apps appear on my account. 📱
 
 ### Skills
+I know HTML and CSS aren't programming languages.......
+
 | Language          | Level / Skill |
 |-------------------|-------------------|
 | **(90%)** Luau | █████████░ |
