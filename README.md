@@ -40,5 +40,5 @@ I'm Suno, a young programmer that just enjoys making a ton of side projects in v
 - Studying **TypeScript** for Roblox-based projects & to improve my knowledge on JS syntax 🌴
 
 ### Projects ✨
-1. **FluentTS** - TypeScript type declarations for working with the Fluent UI library in Roblox-TS
-2. **Starry** - A Roblox-TS and TypeScript-based script to give advantages in several games on Roblox
+1. **🌐 FluentTS** - TypeScript type declarations for working with the Fluent UI library in Roblox-TS
+2. **🌟 Starry** - The best Roblox exploit developed in TypeScript using Roblox-TS → [discord.gg/D657Dd8T](https://discord.gg/D657Dd8T)
