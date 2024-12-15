@@ -42,3 +42,4 @@ I'm Suno, a young programmer that just enjoys making a ton of side projects in v
 ### Projects ✨
 1. **🌐 FluentTS** - TypeScript type declarations for working with the Fluent UI library in Roblox-TS
 2. **🌟 Starry** - The best Roblox exploit developed in TypeScript using Roblox-TS → [discord.gg/luau](https://discord.gg/luau)
+3. **📜 Rosemary** - A UNC test—like script to expose any fake UNC in your Roblox exploit
