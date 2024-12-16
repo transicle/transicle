@@ -43,3 +43,7 @@ I'm Suno, a young programmer that just enjoys making a ton of side projects in v
 1. **🌐 FluentTS** - TypeScript type declarations for working with the Fluent UI library in Roblox-TS
 2. **🌟 Starry** - The best Roblox exploit developed in TypeScript using Roblox-TS → [discord.gg/luau](https://discord.gg/luau)
 3. **📜 PureUNC** - A UNC test—like script to expose any fake UNC in your Roblox exploit
+
+### Script Dump 🗑️
+This repository is to just store all of the scripts I've made that I find pretty useful for specific, or any game(s).
+- View the repository [here](https://github.com/mr-suno/Script-Dump)
