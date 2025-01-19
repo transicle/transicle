@@ -12,6 +12,9 @@ I'm Suno, a young programmer that just enjoys making a ton of side projects in v
 * **iOS Software**: I personally enjoy creating iOS apps, and you may be seeing a few sample apps appear on my account. 📱
 * **Webpages**: I enjoy working with ReactJS and TailwindCSS to create smooth, stable frontend websites. 🔍
 
+> **NOTE**: A bunch of stuff I make can be found in **GitHub Organizations** rather than my personal repositories.
+> <br>Usually, I preserve personal repositories for stuff I'm really proud of
+
 ### Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,4 +43,4 @@ I'm Suno, a young programmer that just enjoys making a ton of side projects in v
 - Studying **TypeScript** for Roblox-based projects & to improve my knowledge on JS syntax 🌴
 
 ### Projects ✨
-2. **🌟 Starry** - The best Roblox exploit developed in TypeScript using Roblox-TS → [discord.gg/luau](https://discord.gg/luau)
+1. **🌟 Starry** - The best Roblox exploit developed in TypeScript using Roblox-TS → [discord.gg/luau](https://discord.gg/luau)
