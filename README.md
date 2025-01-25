@@ -17,6 +17,8 @@ I'm Suno, a young programmer that just enjoys making a ton of side projects in v
 
 ### Tech Stack
 
+> Knowledgeable in 6 programming languages, which some may know as being a polyglot programmer, [learn more](https://www.techtarget.com/searchsoftwarequality/definition/polyglot-programming#:~:text=Polyglot%20programming%20is%20the%20practice%20of%20writing%20code,can%20speak%20and%20use%20at%20least%20four%20languages.)
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
