@@ -43,6 +43,16 @@ I'm Suno, a young programmer that just enjoys making a ton of side projects in v
 ### Currently Learning 📖
 - Currently learning **Java** for future-use ☕
 - Studying **TypeScript** for Roblox-based projects & to improve my knowledge on JS syntax 🌴
+- Trying a little to learn **C++**/**C#** for Windows Apps 🪟
 
 ### Projects ✨
-1. **🌟 Starry** - The best Roblox exploit developed in TypeScript using Roblox-TS → [discord.gg/luau](https://discord.gg/luau)
+1. **🌟 [Starry](https://github.com/Starry-Proj)** - The best Roblox exploit developed in TypeScript using Roblox-TS → [discord.gg/luau](https://discord.gg/luau)
+2. **💭 [Hiero](https://github.com/Some-Cool-Stuffs/Hiero)** - External Roblox Data Store manager which connects using a locally hosted websocket
+3. **❤️ [mylove](https://github.com/mr-suno/mylove)** - My personal portfolio which allows you to get to know more about me, who I am, what I do
+
+### Just for Fun 💨
+1. My [Some Cool Stuffs](https://github.com/Some-Cool-Stuffs) organization includes many cool things I'd like people to see that I've made
+2. Most of my GitHub repositories are just for fun, I get bored a lot and really enjoy writing random programs
+
+### Services 💰
+- My shared [Starry Project](https://github.com/Starry-Proj) includes open-sourced portions of our mainly closed-sourced Roblox exploiting utility  → [discord.gg/luau](https://discord.gg/luau)
