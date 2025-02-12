@@ -48,6 +48,7 @@ I'm Suno, a young programmer that just enjoys making a ton of side projects in v
 ### Projects ✨
 1. **🌟 [Starry](https://github.com/Starry-Proj)** - The best Roblox exploit developed in TypeScript using Roblox-TS → [discord.gg/luau](https://discord.gg/luau)
 2. **❤️ [mylove](https://github.com/mr-suno/mylove)** - My personal portfolio which allows you to get to know more about me, who I am, what I do
+3. **💨 [Pokéfind](https://github.com/Some-Cool-Stuffs/Pokefind)** - Terminal based evo/devolution finder for any provided Pokémon
 
 ### Just for Fun 💨
 1. My [Some Cool Stuffs](https://github.com/Some-Cool-Stuffs) organization includes many cool things I'd like people to see that I've made
