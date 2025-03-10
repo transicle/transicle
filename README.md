@@ -1,13 +1,12 @@
 # Welcome! 👋
 
 > [!TIP]
-> If you like one of my projects, star it! Stars help me stay motivated ❤️
+> If you like one of my projects, **star it**! Stars help me stay motivated ❤️
 
-I'm **Suno**, a young programmer that just enjoys making a ton of side projects in various languages, whilst also maintaining a theme of creating exploits for Roblox.
-> You can check out my most-favorable projects in this README (if available), or check out all of my repositories [here](https://github.com/mr-suno?tab=repositories).
+I'm **Suno**, a **young programmer** that just enjoys making **a ton of side projects** in various languages, whilst also maintaining **a theme of creating useless stuff for Roblox**.
 
 ### Interests & Hobbies
-* **Programming**:  I love to code in various languages, mostly listed below. 🖥️
+* **Programming**:  I love to code in **various languages**, mostly listed below. 🖥️
 * **Backends**: I really love designing APIs and creating lightweight and fast servers. 🌐
 
 ### Tech Stack
@@ -30,6 +29,7 @@ I'm **Suno**, a young programmer that just enjoys making a ton of side projects 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Roblox-TS](https://img.shields.io/badge/roblox--ts-%23EF4B25.svg?style=for-the-badge&logo=roblox&logoColor=white)
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-%23A8C34A.svg?style=for-the-badge&logo=autohotkey&logoColor=white)
 
 --- 
 
@@ -41,12 +41,8 @@ I'm **Suno**, a young programmer that just enjoys making a ton of side projects 
 
 ### Projects ✨
 1. **🌟 [Starry](https://github.com/Starry-Proj)** - The best Roblox exploit developed in TypeScript using Roblox-TS → **[discord.gg/luau](https://discord.gg/luau)**
-2. **❤️ [mylove](https://github.com/mr-suno/mylove)** - My personal portfolio which allows you to get to know more about me, who I am, what I do
-3. **💨 [Pokéfind](https://github.com/Some-Cool-Stuffs/Pokefind)** - Terminal based evo/devolution finder for any provided Pokémon
-
-### Just for Fun 💨
-1. My **[Some Cool Stuffs](https://github.com/Some-Cool-Stuffs)** organization includes many cool things I'd like people to see that I've made
-2. Most of my GitHub repositories are just for fun, I get bored a lot and really enjoy writing random programs
+2. **💨 [Pokéfind](https://github.com/Some-Cool-Stuffs/Pokefind)** - Terminal based evo/devolution finder for any provided Pokémon
+3. **✏️ [PokémonBB Playing Keybinds](https://github.com/mr-suno/PokemonBB-Playing-Keybinds)** - AI Image recognition-based macro player to fully AFK farm Pokémon Brick Bronze
 
 ### Services 💰
-- My shared **[Starry Project](https://github.com/Starry-Proj)** includes open-sourced portions of our mainly closed-sourced Roblox exploiting utility  → **[discord.gg/luau](https://discord.gg/luau)**
+- My shared **[Starry Project](https://github.com/Starry-Proj)** includes **open-sourced portions** of our mainly closed-sourced **Roblox exploiting utility**  → **[discord.gg/luau](https://discord.gg/luau)**
