@@ -29,10 +29,7 @@ I'm **Suno**, a **young programmer** that just enjoys making **a ton of side pro
 --- 
 
 ### Currently Learning 📖
-- Currently learning **Java** for future-use ☕
-- Studying **TypeScript** for Roblox-based projects & to improve my knowledge on JS syntax 🌴
-- Practicing **Python** programming for my future certificate exam 📝
-- Studying **Auto Hotkey** to get rid of tasks for peak laziness. 😴
+- Different languages/frameworks to help me become a better critical thinker and overall programmer.
 
 ### Projects ✨
 1. **🌟 [Starry](https://github.com/Starry-Proj)** - The best Roblox exploit developed in TypeScript using Roblox-TS → **[discord.gg/luau](https://discord.gg/luau)**
