@@ -1,5 +1,3 @@
-# Welcome! 👋
-
 I'm **Suno**, a **young programmer** that just enjoys making **a ton of side projects** in various languages, whilst also maintaining **a theme of creating useless stuff for Roblox**.
 
 ### Interests & Hobbies
