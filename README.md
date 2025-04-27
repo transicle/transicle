@@ -34,7 +34,6 @@ I'm **Suno**, a **young programmer** that just enjoys making **a ton of side pro
 ### Projects ✨
 1. **🌟 [Starry](https://github.com/Starry-Proj)** - The best Roblox exploit developed in TypeScript using Roblox-TS → **[discord.gg/luau](https://discord.gg/luau)**
 2. **💨 [Pokéfind](https://github.com/Some-Cool-Stuffs/Pokefind)** - Terminal based evo/devolution finder for any provided Pokémon
-3. **✏️ [PokémonBB Playing Keybinds](https://github.com/mr-suno/PokemonBB-Playing-Keybinds)** - AI Image recognition-based macro player to fully AFK farm Pokémon Brick Bronze
 
 ### Services 💰
 - My shared **[Starry Project](https://github.com/Starry-Proj)** includes **open-sourced portions** of our mainly closed-sourced **Roblox exploiting utility**  → **[discord.gg/luau](https://discord.gg/luau)**
