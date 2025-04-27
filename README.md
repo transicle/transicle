@@ -32,10 +32,12 @@ I'm **Suno**, a **young programmer** that just enjoys making **a ton of side pro
 - Different languages/frameworks to help me become a better critical thinker and overall programmer.
 
 ### Projects ✨
-1. **🌟 [Starry](https://github.com/Starry-Proj)** - The best Roblox exploit developed in TypeScript using Roblox-TS → **[discord.gg/luau](https://discord.gg/luau)**
-2. **💨 [Pokéfind](https://github.com/Some-Cool-Stuffs/Pokefind)** - Terminal based evo/devolution finder for any provided Pokémon
+- **🌟 [Starry](https://github.com/Starry-Proj)** - The best Roblox exploit developed in TypeScript using Roblox-TS → **[discord.gg/luau](https://discord.gg/luau)**
+- **💨 [Pokéfind](https://github.com/Some-Cool-Stuffs/Pokefind)** - Terminal based evo/devolution finder for any provided Pokémon
+
+### Branches 🌴
+- **[Some Cool Stuffs](https://github.com/Some-Cool-Stuffs)** - A place where I _finally_ finished some projects.. 😉
+- **[My Garbage](https://github.com/My-Abandonded-Garbage)** - The opposite of the one above, useless, pointless side projects I sadly forgot about 😢
 
 ### Services 💰
 - My shared **[Starry Project](https://github.com/Starry-Proj)** includes **open-sourced portions** of our mainly closed-sourced **Roblox exploiting utility**  → **[discord.gg/luau](https://discord.gg/luau)**
-
-> Why do I **never finish** these pointless side projects? I don't know..
