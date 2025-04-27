@@ -38,3 +38,5 @@ I'm **Suno**, a **young programmer** that just enjoys making **a ton of side pro
 
 ### Services 💰
 - My shared **[Starry Project](https://github.com/Starry-Proj)** includes **open-sourced portions** of our mainly closed-sourced **Roblox exploiting utility**  → **[discord.gg/luau](https://discord.gg/luau)**
+
+> Why do I **never finish** these pointless side projects? I don't know..
