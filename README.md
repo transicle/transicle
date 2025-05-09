@@ -1,10 +1,6 @@
-I'm **Suno**, a **young programmer** that just enjoys making **a ton of side projects** in various languages, whilst also maintaining **a theme of creating useless stuff for Roblox**.
+### Tech Stack 🔗
 
-### Interests & Hobbies
-* **Programming**:  I love to code in **various languages**, mostly listed below. 🖥️
-* **Backends**: I really love designing APIs and creating lightweight and fast servers. 🌐
-
-### Tech Stack
+> All of the **languages** or **tools** I'm familiar in using.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,14 +22,7 @@ I'm **Suno**, a **young programmer** that just enjoys making **a ton of side pro
 ![Roblox-TS](https://img.shields.io/badge/roblox--ts-%23EF4B25.svg?style=for-the-badge&logo=roblox&logoColor=white)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-%23A8C34A.svg?style=for-the-badge&logo=autohotkey&logoColor=white)
 
---- 
-
-### Currently Learning 📖
-- Different languages/frameworks to help me become a better critical thinker and overall programmer.
-
-### Projects ✨
-- **💨 [Pokéfind](https://github.com/Some-Cool-Stuffs/Pokefind)** - Terminal based evo/devolution finder for any provided Pokémon
-
-### Branches 🌴
-- **[Some Cool Stuffs](https://github.com/Some-Cool-Stuffs)** - A place where I _finally_ finished some projects.. 😉
-- **[My Garbage](https://github.com/My-Abandonded-Garbage)** - The opposite of the one above, useless, pointless side projects I sadly forgot about 😢
+### Side Projects 💻
+1. Project: **Starlight** ‎ — ‎ Powerful Roblox paid hub giving over-powered features in popular games.
+- - View on [**Discord**](https://discord.gg/luau) (8,000+)
+  - Programmed for Roblox using **TypeScript** (Main language), **JavaScript** (RobloxTS bundler), and **Lua** (Extra bundler files)
