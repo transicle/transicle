@@ -1,6 +1,6 @@
 ### Tech Stack 🔗
 
-> All of the **languages** or **tools** I'm familiar in using.
+> All of the **languages** and **tools** I'm familiar using :3
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,6 +23,7 @@
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-%23A8C34A.svg?style=for-the-badge&logo=autohotkey&logoColor=white)
 
 ### Side Projects 💻
-1. Project: **Starlight** ‎ — ‎ Powerful Roblox paid hub giving over-powered features in popular games.
+1. Project: **Starlight** ‎ — ‎ Powerful Roblox freemium hub providing various features in popular games.
 - - View on [**Discord**](https://discord.gg/luau) (12,000+)
   - Programmed for Roblox using **TypeScript** (Main language), **JavaScript** (RobloxTS bundler), and **Lua** (Extra bundler files)
+  - **[View our official page](https://luau.tech)**
