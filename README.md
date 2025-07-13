@@ -24,5 +24,5 @@
 
 ### Side Projects 💻
 1. Project: **Starlight** ‎ — ‎ Powerful Roblox paid hub giving over-powered features in popular games.
-- - View on [**Discord**](https://discord.gg/luau) (11,000+)
+- - View on [**Discord**](https://discord.gg/luau) (12,000+)
   - Programmed for Roblox using **TypeScript** (Main language), **JavaScript** (RobloxTS bundler), and **Lua** (Extra bundler files)
