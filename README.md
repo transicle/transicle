@@ -1,10 +1,10 @@
-<h1 align="center">Who I Am 🌺</h1>
+<h1 align="center">Who I Am (≧∇≦)ﾉ</h1>
 <div align="center">
   I'm <a href="https://lily.transgirls.win">Lily</a>, and I'm a programmer who enjoys making silly projects in my free time or whenever I feel sad or just wanting something to do.. I hope you find whatever you're looking for!! <b>٩(＾◡＾)۶</b>
 </div><br>
-<p align="center"><b>Transgender</b> [<a href="https://lily.transgirls.win">lily.transgirls.win</a> 🏳‍⚧] <b>⬩~⬩ Software Developer ⬩~⬩ Full Stack</b></p>
-<h2>Programming Languages and Text Editors / IDEs I use</h2>
+<p align="center"><b>Transgender</b> [🏳‍⚧] <b>⬩~⬩ Software and Web Developer ⬩~⬩ Full Stack</b></p>
 <div align="center">
+  <h2>Programming Languages, Text Editors and IDEs I use (✿◡‿◡)</h2>
   <!-- https://github.com/Ileriayo/markdown-badges -->
   <!-- Languages -->
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -21,11 +21,9 @@
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white" />
-</div>
-<h2>Projects I'm Proud of</h2>
-<ul>
-  <li><a href="https://github.com/sily-lily/Revision" target="_blank">Revision</a> <b>:</b> DO STUFF [<a href="https://github.com/sily-lily/Revision?tab=readme-ov-file#revision" target="_blank">Learn More</a>]</li>
-  <li><a href="https://github.com/sily-lily/Direxecute">Direxecute</a> <b>:</b> DO STUFF [<a href="https://github.com/sily-lily/Direxecute?tab=readme-ov-file#direxecute--vscode--roblox" target="_blank">Learn More</a>]</li>
-  <li><a href="https://github.com/sily-lily/RoactWeb">RoactWeb</a> <b>:</b> DO STUFF [<a href="https://github.com/sily-lily/RoactWeb?tab=readme-ov-file#roactweb" target="_blank">Learn More</a>]
-</li>
-</ul>
+</div><br>
+<p align="center">
+  <a href="https://lily.transgirls.win">lily.transgirls.win</a> • 
+  <a href="https://asoftmurmur.com/">asoftmurmur.com</a> • 
+  <a href="https://github.com/xNasuni">view Mia's work</a> <b>:3</b>
+</p>
