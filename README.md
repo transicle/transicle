@@ -27,3 +27,6 @@
   <a href="https://asoftmurmur.com/">asoftmurmur.com</a> • 
   <a href="https://github.com/xNasuni">view Mia's work</a> <b>:3</b>
 </p>
+<p align="center">
+  I use Arch Linux with Hyprland and Waybar!! View my <a href="https://github.com/sily-lily/useful-scripts/tree/main/Waybar">Waybar config</a> or my <a href="https://github.com/sily-lily/useful-scripts/tree/main/Hyprland">Hyprland config</a> here!
+</p>
