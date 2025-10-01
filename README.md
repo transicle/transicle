@@ -2,7 +2,7 @@
 <div align="center">
   I'm <a href="https://lily.transgirls.win">Lily</a>, and I'm a programmer who enjoys making silly projects in my free time or whenever I feel sad or just wanting something to do.. I hope you find whatever you're looking for!! <b>٩(＾◡＾)۶</b>
 </div><br>
-<p align="center"><b>Transgender</b> [🏳‍⚧] <b>⬩~⬩ Software and Web Developer ⬩~⬩ Full Stack</b></p>
+<p align="center"><b>Transgender</b> [🏳️‍⚧️] <b>⬩~⬩ Software and Web Developer ⬩~⬩ Full Stack</b></p>
 <div align="center">
   <h2>Programming Languages, Text Editors and IDEs I use (✿◡‿◡)</h2>
   <!-- https://github.com/Ileriayo/markdown-badges -->
@@ -28,5 +28,5 @@
   <a href="https://github.com/xNasuni">view Mia's work</a> <b>:3</b>
 </p>
 <p align="center">
-  I use Arch Linux with Hyprland and Waybar!! View my <a href="https://github.com/sily-lily/useful-scripts/tree/main/Waybar">Waybar config</a> or my <a href="https://github.com/sily-lily/useful-scripts/tree/main/Hyprland">Hyprland config</a> here!
+  I use Arch Linux with Hyprland and Waybar!! View my <a href="https://github.com/transicle/Silly-Scripts/tree/main/Waybar">Waybar config</a> or my <a href="https://github.com/transicle/Silly-Scripts/tree/main/Hyprland">Hyprland config</a> here!
 </p>
