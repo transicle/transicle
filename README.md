@@ -37,5 +37,5 @@
   Arch Linux に Hyprland と Waybar を使っています！！  
   わたしの <a href="https://github.com/transicle/Silly-Scripts/tree/main/Waybar">Waybar設定</a> や  
   <a href="https://github.com/transicle/Silly-Scripts/tree/main/Hyprland">Hyprland設定</a> を見てみてね！⬩~⬩
-  View my <a href="https://github.com/transicle/Silly-Scripts/tree/main/Neovim">Neovimの設定</a>
+  <a href="https://github.com/transicle/Silly-Scripts/tree/main/Neovim">Neovimの設定</a>
 </p>
