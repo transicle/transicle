@@ -10,7 +10,7 @@
   I hope you find what you’re looking for <i><b>!!</b></i> <b>٩(＾◡＾)۶</b>
 </div><br>
 <p align="center">
-  🏳️‍⚧️ <b>トランスジェンダー</b> <b>⬩~⬩ Software and Web Developer ⬩~⬩ Rust ❤️</b><br>
+  🏳️‍⚧️ <b>トランスジェンダー</b> <b>⬩~⬩ Software Developer ⬩~⬩ Compilers ❤️</b><br>
 </p>
 <div align="center">
   <h2>使っているプログラミング言語・テキストエディタ・IDEたち (✿◡‿◡)</h2>
