@@ -22,3 +22,7 @@
   <a href="https://asoftmurmur.com/">asoftmurmur.com</a> • 
   <a href="https://github.com/xNasuni">See Mia’s work</a> <b>:3</b>
 </p>
+
+<p align="center">
+  I work in various kernels, including Linux, ChromeOS (Android), Windows-NT, and Darwin. I specialize in writing low-level software, such as compilers or operating systems. Sometimes I partake in high-level programming like API or frontend web development. I enjoy researching security at times and I am particularly intrigued in kernel development. My preferred text editor is Vim or VS Code.
+</p>
