@@ -1,3 +1,7 @@
+<p align="center">
+  Primarily an open sourced developer with a specific desire to create safe, user friendly, and easily modifiable software. Contributions to any of my repositories are more than welcome. You can also reach out to me on <a href="https://discord.com/users/1002377371892072498">Discord</a>, at least that's where I'm most active at.
+</p>
+
 <div align="center">
   <h2>使っているプログラミング言語・テキストエディタ・IDEたち (✿◡‿◡)</h2>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -24,5 +28,9 @@
 </p>
 
 <p align="center">
-  I work in various kernels, including Linux, ChromeOS (Android), Windows-NT, and Darwin. I specialize in writing low-level software, such as compilers or operating systems. Sometimes I partake in high-level programming like API or frontend web development. I enjoy researching security at times and I am particularly intrigued in kernel development. My preferred text editor is Vim or VS Code.
+    <img src="https://transgirls.win/assets/media/autism.gif" alt="silly aumtism" width="100" height="35">
+    <img src="https://transgirls.win/assets/media/queercoded.png" alt="queer coded this, really?" width="100" height="35">
+    <img src="https://transgirls.win/assets/media/nyancat.gif" alt="silly cat" width="100" height="35">
+    <img src="https://transgirls.win/assets/media/princess.gif" alt="princess" width="100" height="35">
+    <img src="https://transgirls.win/assets/media/madewithmyowntwopaws.jpg" alt="MY paws!!" width="100" height="35">
 </p>
