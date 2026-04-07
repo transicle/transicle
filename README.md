@@ -5,8 +5,6 @@
 </p>
 <div align="center">
   <img src="./assets/_1.gif" width="88" height="31">
-  <img src="./assets/_1.gif" width="88" height="31">
-  <img src="./assets/_1.gif" width="88" height="31">
   <img src="./assets/_2.gif" width="88" height="31">
   <img src="./assets/_3.gif" width="88" height="31">
   <img src="./assets/_4.gif" width="88" height="31">
