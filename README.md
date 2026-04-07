@@ -8,12 +8,12 @@
   <img src="./assets/_2.gif" width="88" height="31">
   <img src="./assets/_3.gif" width="88" height="31">
   <img src="./assets/_4.gif" width="88" height="31">
-  <img src="./assets/_5.gif" width="88" height="31">
+  <img src="./assets/_5.gif" width="88" height="31"><br>
   <img src="./assets/_6.gif" width="88" height="31">
   <img src="./assets/_7.gif" width="88" height="31">
   <img src="./assets/_8.gif" width="88" height="31">
   <img src="./assets/_9.gif" width="88" height="31">
-  <img src="./assets/_10.gif" width="88" height="31">
+  <img src="./assets/_10.gif" width="88" height="31"><br>
   <img src="./assets/_11.gif" width="88" height="31">
   <img src="./assets/_12.gif" width="88" height="31">
   <img src="./assets/_13.gif" width="88" height="31">
