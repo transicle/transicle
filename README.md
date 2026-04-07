@@ -4,20 +4,22 @@
   view <a href="https://github.com/xNasuni">mia's profile</a> <b>:3</b>
 </p>
 <div align="center">
-  <img src="https://cyber.dabamos.de/88x31/pokemon.gif" width="88" height="31">
-  <img src="https://cyber.dabamos.de/88x31/hello_kitty.gif" width="88" height="31">
-  <img src="https://cyber.dabamos.de/88x31/tyg.gif" width="88" height="31">
-  <img src="https://cyber.dabamos.de/88x31/vscbutton.gif" width="88" height="31">
-  <img src="https://cyber.dabamos.de/88x31/written-in-vi.gif" width="88" height="31"><br>
-  <img src="https://cyber.dabamos.de/88x31/transnow2.gif" width="88" height="31">
-  <img src="https://cyber.dabamos.de/88x31/logocandyshop.gif" width="88" height="31">
-  <img src="https://cyber.dabamos.de/88x31/b4j.gif" width="88" height="31">
-  <img src="https://cyber.dabamos.de/88x31/bu12.gif" width="88" height="31">
-  <img src="https://cyber.dabamos.de/88x31/dark-mode.gif" width="88" height="31"><br>
-  <img src="https://cyber.dabamos.de/88x31/8bit.gif" width="88" height="31">
-  <img src="https://cyber.dabamos.de/88x31/bestviewedyour.gif" width="88" height="31">
-  <img src="https://cyber.dabamos.de/88x31/blink-0.gif" width="88" height="31">
-  <img src="https://cyber.dabamos.de/88x31/dontleave.gif" width="88" height="31">
+  <img src="./assets/_1.gif" width="88" height="31">
+  <img src="./assets/_1.gif" width="88" height="31">
+  <img src="./assets/_1.gif" width="88" height="31">
+  <img src="./assets/_2.gif" width="88" height="31">
+  <img src="./assets/_3.gif" width="88" height="31">
+  <img src="./assets/_4.gif" width="88" height="31">
+  <img src="./assets/_5.gif" width="88" height="31">
+  <img src="./assets/_6.gif" width="88" height="31">
+  <img src="./assets/_7.gif" width="88" height="31">
+  <img src="./assets/_8.gif" width="88" height="31">
+  <img src="./assets/_9.gif" width="88" height="31">
+  <img src="./assets/_10.gif" width="88" height="31">
+  <img src="./assets/_11.gif" width="88" height="31">
+  <img src="./assets/_12.gif" width="88" height="31">
+  <img src="./assets/_13.gif" width="88" height="31">
+  <img src="./assets/_14.gif" width="88" height="31">
   <img src="https://cyber.dabamos.de/88x31/eat.gif" width="88" height="31"><br>
   <img src="https://transgirls.win/assets/media/princess.gif" width="88" height="31">
   <img src="https://transgirls.win/assets/media/nyancat.gif" width="88" height="31">
