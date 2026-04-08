@@ -19,24 +19,24 @@
   <img src="./assets/_13.gif" width="88" height="31">
   <img src="./assets/_14.gif" width="88" height="31">
   <img src="./assets/_15.gif" width="88" height="31"><br>
-  <img src="https://transgirls.win/assets/media/princess.gif" width="88" height="31">
-  <img src="https://transgirls.win/assets/media/nyancat.gif" width="88" height="31">
-  <img src="https://transgirls.win/assets/media/queercoded.png" width="88" height="31">
-  <img src="https://transgirls.win/assets/media/madewithmyowntwopaws.jpg" width="88" height="31">
-  <img src="https://88x31.nl/gifs/anythingbut.gif" width="88" height="31"><br>
-  <img src="https://88x31.nl/gifs/best_viewed_with_open_eyes.gif" width="88" height="31">
-  <img src="https://88x31.nl/gifs/cheezit.gif" width="88" height="31">
-  <img src="https://88x31.nl/gifs/dream-diary.gif" width="88" height="31">
-  <img src="https://88x31.nl/gifs/hatemac_b.gif" width="88" height="31">
-  <img src="https://88x31.nl/gifs/homicidenow.gif" width="88" height="31"><br>
-  <img src="https://88x31.nl/gifs/legal.gif" width="88" height="31">
-  <img src="https://88x31.nl/gifs/letsnotencrypt.gif" width="88" height="31">
-  <img src="https://88x31.nl/gifs/ltt.gif" width="88" height="31">
-  <img src="https://88x31.nl/gifs/notperfect.gif" width="88" height="31">
-  <img src="https://88x31.nl/gifs/nowebp.gif" width="88" height="31"><br>
-  <img src="https://88x31.nl/gifs/penguins.gif" width="88" height="31">
-  <img src="https://88x31.nl/gifs/ublock-now.png" width="88" height="31">
-  <img src="https://88x31.nl/gifs/rainbow_bev.gif" width="88" height="31">
-  <img src="https://88x31.nl/gifs/rar_whit_move.gif" width="88" height="31">
-  <img src="https://88x31.nl/gifs/piracy.png" width="88" height="31">
+  <img src="./assets/_16.gif" width="88" height="31">
+  <img src="./assets/_17.gif" width="88" height="31">
+  <img src="./assets/_18.gif" width="88" height="31">
+  <img src="./assets/_19.gif" width="88" height="31">
+  <img src="./assets/_20.gif" width="88" height="31"><br>
+  <img src="./assets/_21.gif" width="88" height="31">
+  <img src="./assets/_22.gif" width="88" height="31">
+  <img src="./assets/_23.gif" width="88" height="31">
+  <img src="./assets/_24.gif" width="88" height="31">
+  <img src="./assets/_25.gif" width="88" height="31"><br>
+  <img src="./assets/_26.gif" width="88" height="31">
+  <img src="./assets/_27.gif" width="88" height="31">
+  <img src="./assets/_28.gif" width="88" height="31">
+  <img src="./assets/_29.gif" width="88" height="31">
+  <img src="./assets/_30.gif" width="88" height="31"><br>
+  <img src="./assets/_31.gif" width="88" height="31">
+  <img src="./assets/_32.gif" width="88" height="31">
+  <img src="./assets/_33.gif" width="88" height="31">
+  <img src="./assets/_34.gif" width="88" height="31">
+  <img src="./assets/_35.gif" width="88" height="31"><br>
 </div>
