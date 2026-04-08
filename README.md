@@ -4,6 +4,24 @@
   view <a href="https://github.com/xNasuni">mia's profile</a> <b>:3</b>
 </p>
 <div align="center">
+  <p align="center">
+    available for commissioning (expand for hirable jobs): <b>@transicle</b> on Discord
+  </p>
+  <details>
+    <summary>expand for available commission work</summary><br>
+    <ul>
+      <li>backend API work (<b>*</b> requires existing and functional frontend)</li>
+      <li>compiler design and development (<b>•</b> using C, not C++)</li>
+      <li>roblox scripts (either exploits or legitimate scripts)</li>
+      <li>
+        i work with both 
+        <a href="https://roblox-ts.com">roblox-ts</a> and 
+        <a href="https://luau-lang.org">luau</a>
+      </li>
+    </ul><br>
+  </details>
+</div>
+<div align="center">
   <img src="./assets/_1.gif" width="88" height="31">
   <img src="./assets/_2.gif" width="88" height="31">
   <img src="./assets/_3.gif" width="88" height="31">
