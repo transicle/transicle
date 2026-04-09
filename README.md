@@ -14,11 +14,6 @@
         <li>backend API work (<b>*</b> requires existing and functional frontend)</li>
         <li>compiler design and development (<b>•</b> using C, not C++)</li>
         <li>roblox scripts (either exploits or legitimate scripts)</li>
-        <li>
-          i work with both
-          <a href="https://roblox-ts.com">roblox-ts</a> and
-          <a href="https://luau-lang.org">luau</a>
-        </li>
       </ul>
     </div>
     <br>
