@@ -12,7 +12,7 @@
     <div align="left">
       <ul">
         <li>backend API work (<b>*</b> requires existing and functional frontend)</li>
-        <li>compiler design and development (<b>•</b> using C, not C++)</li>
+        <li>compiler design and development (<b>*</b> using C, not C++)</li>
         <li>roblox scripts (either exploits or legitimate scripts)</li>
       </ul>
     </div>
