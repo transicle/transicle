@@ -56,4 +56,14 @@
   <img src="./assets/_33.gif" width="88" height="31">
   <img src="./assets/_34.gif" width="88" height="31">
   <img src="./assets/_35.gif" width="88" height="31"><br>
-</div>
+</div><br>
+
+## Knowledge
+| Languages   | Knowledge        |
+|-|-|
+| C           | █████░░░░░ㅤ 50%   |
+| C++         | ██░░░░░░░░ ㅤ20%   |
+| JavaScript  | ███████░░░ ㅤ70%   |
+| TypeScript  | ███████░░░ ㅤ70%   |
+| Lua/Luau    | █████████░ ㅤ90%   |
+| Python      | ██████████ㅤ 100%  |
