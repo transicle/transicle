@@ -59,11 +59,10 @@
 </div><br>
 
 ## Knowledge
-| Languages   | Knowledge        |
-|-|-|
-| C           | █████░░░░░ㅤ 50%   |
-| C++         | ██░░░░░░░░ ㅤ20%   |
-| JavaScript  | ███████░░░ ㅤ70%   |
-| TypeScript  | ███████░░░ ㅤ70%   |
-| Lua/Luau    | █████████░ ㅤ90%   |
-| Python      | ██████████ㅤ 100%  |
+| *programming languages* | skill |
+| --- | --- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16px"/> ㅤC | █████░░░░░ ㅤ50% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16px"/> ㅤC++ | ██░░░░░░░░ ㅤ20% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16px"/> ㅤJavaScript | ███████░░░ ㅤ70% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="16px"/> ㅤLua, Luau | █████████░ ㅤ90% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16px"/> ㅤPython | ██████████ ㅤ100% |
