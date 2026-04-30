@@ -67,4 +67,4 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="16px"/> ㅤLua, Luau | █████████░ ㅤ90% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16px"/> ㅤPython | ██████████ ㅤ100% |
 
-**_agnostic_**, **_autistic_**, **_aphantasic_**, **_adhd_**, **_anxiety_**, **_depression_**, **professional catgirl**
+**_agnostic_**, **_autistic_**, **_aphantasic_**, **_adhd_**, **_anxiety_**, **_depression_**, **_professional catgirl_**
