@@ -68,3 +68,4 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16px"/> ㅤPython | ██████████ ㅤ100% |
 
 **_agnostic_**, **_autistic_**, **_aphantasic_**, **_adhd_**
+<br> **_~115 iq_**
