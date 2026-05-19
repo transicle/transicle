@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://lily.transgirls.win">lily.transgirls.win</a> • 
+  <a href="https://transgirls.love">transgirls.love</a> • 
   <a href="https://adan.sh/">adan.sh</a> • 
   view <a href="https://github.com/xNasuni">mia's profile</a> <b>:3</b>
 </p>
