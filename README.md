@@ -3,23 +3,7 @@
   <a href="https://adan.sh/">adan.sh</a> • 
   view <a href="https://github.com/xNasuni">mia's profile</a> <b>:3</b>
 </p>
-<div align="center">
-  <p align="center">
-    available for commissioning (expand for hirable jobs): <b>@transicle</b> on Discord
-  </p>
-  <details>
-    <summary>expand for available commission work</summary><br>
-    <div align="left">
-      <ul">
-        <li>backend API work (<b>*</b> requires existing and functional frontend)</li>
-        <li>compiler design and development (<b>*</b> using either C or C++)</li>
-        <li>roblox scripts (either exploits or legitimate scripts)</li>
-        <li>discord bot development (either discord.js or .py)</li>
-      </ul>
-    </div>
-    <br>
-  </details>
-</div>
+
 <div align="center">
   <img src="./assets/_1.gif" width="88" height="31">
   <img src="./assets/_2.gif" width="88" height="31">
