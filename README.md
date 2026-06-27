@@ -45,10 +45,11 @@
 ## Knowledge
 | *programming languages* | skill |
 | --- | --- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16px"/> ㅤC | ████████░░ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16px"/> ㅤC++ | ███░░░░░░░ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16px"/> ㅤJavaScript | ███████░░░ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="16px"/> ㅤLua, Luau | █████████░ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16px"/> ㅤPython | ██████████ |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gleam/gleam-original.svg" width="16px"/>  Gleam | ██░░░░░░░░ |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16px"/>  ㅤC | ████████░░ |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16px"/> ㅤ C++ | ███░░░░░░░ |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16px"/> ㅤ JavaScript, TypeScript | ███████░░░ |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="16px"/>  ㅤLua, Luau | █████████░ |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16px"/>  ㅤPython | ██████████ |
 
 **_agnostic_**, **_autistic_**, **_aphantasic_**, **_adhd_**, **_anxiety_**, **_depression_**, **_professional catgirl_**
