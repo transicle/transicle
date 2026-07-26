@@ -42,13 +42,8 @@
   <img src="./assets/_35.gif" width="88" height="31"><br>
 </div><br>
 
-## Knowledge
-| *programming languages* | skill |
-| --- | --- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16px"/> ㅤ JavaScript, TypeScript | ██░░░░░░░░ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16px"/> ㅤ C++ | ███░░░░░░░ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16px"/>  ㅤC | ██████░░░░ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="16px"/>  ㅤLua, Luau | ████████░░ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16px"/>  ㅤPython | ██████████ |
-
-**_agnostic_**, **_autistic_**, **_aphantasic_**, **_adhd_**, **_anxiety_**, **_depression_**, **_professional catgirl_**
+<div align="center">
+  <b><i>agnostic</i></b>, <b><i>autism</i></b>, <b><i>aphantasic</i></b>, <b><i>adhd</i></b>, <b><i>anxiety</i></b>, <b><i>depression</i></b>
+  <br><br>
+  🩵 🩷 🤍 🩷 🩵
+</div>
