@@ -43,7 +43,7 @@
 </div><br>
 
 <div align="center">
-  <b><i>agnostic</i></b>, <b><i>autism</i></b>, <b><i>aphantasic</i></b>, <b><i>adhd</i></b>, <b><i>anxiety</i></b>, <b><i>depression</i></b>
+  <b><i>agnostic</i></b>, <b><i>autism</i></b>, <b><i>aphantasia</i></b>, <b><i>adhd</i></b>, <b><i>anxiety</i></b>, <b><i>depression</i></b>, <b><i><a href="https://en.wikipedia.org/wiki/Avoidant/restrictive_food_intake_disorder">arfid</a></i></b>
   <br><br>
   🩵 🩷 🤍 🩷 🩵
 </div>
