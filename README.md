@@ -46,4 +46,6 @@
   <b><i>agnostic</i></b>, <b><i>autism</i></b>, <b><i>aphantasia</i></b>, <b><i>adhd</i></b>, <b><i>anxiety</i></b>, <b><i>depression</i></b>, <b><i><a href="https://en.wikipedia.org/wiki/Avoidant/restrictive_food_intake_disorder">arfid</a></i></b>
   <br><br>
   🩵 🩷 🤍 🩷 🩵
+  <br><br>
+  <a href="https://blog.transgirls.love">blog.transgirls.love</a> • <a href="https://transgirls.love">transgirls.love</a>
 </div>
